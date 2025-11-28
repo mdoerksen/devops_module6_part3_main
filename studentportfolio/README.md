@@ -1,4 +1,4 @@
-# Studentportfoliotemplate
+# Studentportfoliotemplate - Madeleine Doerksen
 
 # This is a template for student portfolio website.
 
